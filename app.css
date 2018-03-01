@@ -1,0 +1,27 @@
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 5vw;
+  color: #0066FF;
+}
+
+header {
+  background-color: #00FF00;
+  background-image:url("greenwall.jpg");
+  padding: 7vw 25em 12vw 15em;
+  background-position: right bottom;
+  background-size: cover;
+  text-align: right;
+}
+
+.info {
+  font-size: 20px;
+}
+#main > .row {
+  margin-bottom:75px;
+}
+#main2 > .row {
+  margin-bottom:75px;
+}
+#main3 > .row {
+  margin-bottom:75px;
+}
